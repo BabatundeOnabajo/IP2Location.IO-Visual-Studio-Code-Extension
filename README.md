@@ -10,15 +10,19 @@ You need the following to run this program:
 2. API key from IP2Location.IO. You can download it here: https://www.ip2location.io/
 
 # Instructions
-In order to test this extension, please follow the instructions below.
+In order to test this extension, please follow the instructions below after you have complied with the Requirements above..
 
 1. If you are using a Windows or Mac or Linux device, please open VS Code. Ordinarily, you can do this with the single line of code:
 `code`
 However, this might not work on Mac in some situations, in which case please open the software manually and refer to [1] in the Troubleshooting section.
-3. 
+2. Open Terminal on Mac (or its equivalent in Linux systems) or Command Prompt on Windows.
+3. Type the following code: `yo code`.
 
 # Troubleshooting
 [1] 
 
 # Screenshots
 ![Screenshot](https://github.com/BabatundeOnabajo/IP2Location.IO-Visual-Studio-Code-Extension/blob/main/Screenshot%202025-09-29%20at%2018.39.13.png)
+![Screenshot](https://github.com/BabatundeOnabajo/IP2Location.IO-Visual-Studio-Code-Extension/blob/main/Screenshot%202025-09-29%20at%2018.39.34.png)
+![Screenshot](https://github.com/BabatundeOnabajo/IP2Location.IO-Visual-Studio-Code-Extension/blob/main/Screenshot%202025-09-29%20at%2018.40.20%201.png)
+![Screenshot](https://github.com/BabatundeOnabajo/IP2Location.IO-Visual-Studio-Code-Extension/blob/main/Screenshot%202025-09-29%20at%2018.40.20.png)
