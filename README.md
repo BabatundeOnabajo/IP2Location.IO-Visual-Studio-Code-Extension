@@ -2,6 +2,7 @@
 This is an extension for the popular Integrated Development Environment (IDE) Visual Studio Code. With this extension, you can obtain information about a given IP address within Visual Studio Code, either within the Command Palette or by right-clicking an IP address that appears within a given file. This program was "vibe coded" with Claude Opus 4.
 
 # Overview
+One thing I have always wanted to develop was a VS Code extension. I've also always wanted the convenience of getting information about a given IP address within VS Code, and so I decided to create this extension! 
 
 # Requirements
 You need the following to run this program:
@@ -32,10 +33,20 @@ information relating to a given IP address.
 
 This will create the foundations of your VS Code extension. However, there is still work to do. Typically, VS Code will launch once installation has completed.
 
-12. 
+12. In your VS Code, you should see a file called "package.json". Open that file and then come back to this Github. Copy the code from the file in *this* Github repository called [package.json](https://github.com/BabatundeOnabajo/IP2Location.IO-Visual-Studio-Code-Extension/blob/main/package.json) and overwrite the content in your VS Code in the package.json file.
+13. In your VS Code, you should see a file called "extension.ts". Open that file and then come back to this Github. Copy the code from the file in *this* Github repository called [extension.ts](https://github.com/BabatundeOnabajo/IP2Location.IO-Visual-Studio-Code-Extension/blob/main/extension.ts) and overwrite the content in your VS Code in the extension.ts file.
+14. To test out the extension, press F5 if you are on Windows or alternatively press "Run" if you are on a Mac or Linux device.
+15. Once you have done those two steps, your VS Code is complete. Unbelievable, right!?
+
+# Preview
+With the VS Code extension, you can now obtain information about a particular IP address. You can do this in the Command Palette, or alternatively, if there is an IP address in the code itself, you can simply right-click the IP address and press "Lookup Selected IP" (see screenshot below). You may be requested to set your API key. You can do this by copying the API key from your IP2Location.IO dashboard. 
 
 # Troubleshooting
-[1] 
+[1] On Mac, ordinarily, you can open VS Code by simply typing `code` in Terminal. However, this is not always possible. To resolve this, you can type the following in the Command Palette within VS Code: `Shell Command: Install 'code' command in PATH` . After this, when you type `code` in Terminal, it should automatically open VS Code.
+[2] Always keep your API key secure. To the best of my knowledge and belief, there are no security implications with this extension.
+
+# Useful resources
+[1] IPVoid: https://www.ipvoid.com/random-ip/ (You can generate random IP addresses if you do not want to test a particular IP address).
 
 # Screenshots
 ![Screenshot](https://github.com/BabatundeOnabajo/IP2Location.IO-Visual-Studio-Code-Extension/blob/main/Screenshot%202025-09-29%20at%2018.39.13.png)
