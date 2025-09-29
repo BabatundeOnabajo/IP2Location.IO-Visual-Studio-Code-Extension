@@ -17,6 +17,9 @@ In order to test this extension, please follow the instructions below after you 
 However, this might not work on Mac in some situations, in which case please open the software manually and refer to [1] in the Troubleshooting section.
 2. Open Terminal on Mac (or its equivalent in Linux systems) or Command Prompt on Windows.
 3. Type the following code: `yo code`.
+4. You will be presented with a number of options, like the screenshot below:
+![Screenshot](https://github.com/BabatundeOnabajo/IP2Location.IO-Visual-Studio-Code-Extension/blob/main/Screenshot%202025-09-29%20at%2019.08.59.png)
+5. 
 
 # Troubleshooting
 [1] 
