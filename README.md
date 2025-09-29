@@ -19,17 +19,18 @@ In order to test this extension, please follow the instructions below after you 
 `code`
 However, this might not work on Mac in some situations, in which case please open the software manually and refer to [1] in the Troubleshooting section.
 2. Open Terminal on Mac (or its equivalent in Linux systems) or Command Prompt on Windows.
-3. Type the following code: `yo code`.
-4. You will be presented with a number of options, like the screenshot below:
+3. Type the following code: `npm install -g yo generator-code`
+4. Type the following code: `yo code`.
+5. You will be presented with a number of options, like the screenshot below:
 ![Screenshot](https://github.com/BabatundeOnabajo/IP2Location.IO-Visual-Studio-Code-Extension/blob/main/Screenshot%202025-09-29%20at%2019.08.59.png)
-5. Choose: New Extension (Typescript).
-6. You are free to name the extension what you want but for consistency in order to follow these instructions, enter: IP2Location Lookup.
-7. You are free to choose the identifier you want for the extension but for consistency, enter: ip2location-io-lookup
-8. You are free to enter a description you feel is appropriate for the extension, but for consistency type: This enables users to lookup 
+6. Choose: New Extension (Typescript).
+7. You are free to name the extension what you want but for consistency in order to follow these instructions, enter: IP2Location Lookup.
+8. You are free to choose the identifier you want for the extension but for consistency, enter: ip2location-io-lookup
+9. You are free to enter a description you feel is appropriate for the extension, but for consistency type: This enables users to lookup 
 information relating to a given IP address.
-9. Choose: Yes.
-10. Choose: unbundled.
-11. Choose npm.
+10. Choose: Yes.
+11. Choose: unbundled.
+12. Choose npm.
 
 This will create the foundations of your VS Code extension. However, there is still work to do. Typically, VS Code will launch once installation has completed.
 
