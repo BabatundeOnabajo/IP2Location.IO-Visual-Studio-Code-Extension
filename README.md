@@ -19,3 +19,6 @@ However, this might not work on Mac in some situations, in which case please ope
 
 # Troubleshooting
 [1] 
+
+# Screenshots
+![Screenshot](https://github.com/BabatundeOnabajo/IP2Location.IO-Visual-Studio-Code-Extension/blob/main/Screenshot%202025-09-29%20at%2018.39.13.png)
